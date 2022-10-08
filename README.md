@@ -4,11 +4,10 @@ Hi there 👋 I'm Dalton
 <p align='center'>
 I'm an Application Security Engineer with a passion for cars.
 
-  🔭 I’m currently working on building a CANBUS lab to learn more about automotive security
-
-
-
+🔭 I’m currently working on building a CANBUS lab to learn more about automotive security
 </p>
+
+
 <h2 align='center'>
 Languages and Tools:
 </h2>
