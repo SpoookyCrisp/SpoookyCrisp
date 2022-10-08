@@ -5,7 +5,7 @@ Hi there 👋 I'm Dalton
 I'm an Application Security Engineer with a passion for cars.
 </p>
 <p align='center'>
-🔭 I’m currently working on building a CANBUS lab to learn more about automotive security
+🔭 I’m currently working on building a CANBUS lab to learn more about automotive security 🚗
 </p>
 
 
