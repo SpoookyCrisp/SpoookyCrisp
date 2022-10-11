@@ -7,8 +7,15 @@ I'm an Application Security Engineer with a passion for cars.
 <p align='center'>
 🔭 I’m currently working on building a CANBUS lab to learn more about automotive security 🚗
 </p>
-
-
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/daltonlocke/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/SpoookySec">
+    <img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 <h2 align='center'>
 Languages and Tools:
 </h2>
