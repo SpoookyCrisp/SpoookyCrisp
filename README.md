@@ -7,7 +7,7 @@ I'm an Application Security Engineer with a passion for cars and motorsport.
 <p align='center'>
 🔭 I’m currently working on building a CANBUS lab to learn more about automotive security 🚗
 </p>
-<p>
+<p align='center'>
 I'm also working on learning how to design a CAN for my 1989 Camaro to modernize it's systems
 </p>
 <p align='center'>
