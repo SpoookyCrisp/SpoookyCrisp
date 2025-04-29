@@ -11,6 +11,10 @@ I'm an Application Security Engineer with a passion for cars and motorsport.
 I'm also working on learning how to design a CAN for my 1989 Camaro to modernize it's systems
 </p>
 <p align='center'>
+<p align='center'>
+Also diving into Artifical Inteligence
+</p>
+<p align='center'>
   
   <a href="https://www.linkedin.com/in/daltonlocke/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
