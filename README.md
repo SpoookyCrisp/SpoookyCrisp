@@ -14,10 +14,9 @@ I'm also working on learning how to design a CAN for my 1989 Camaro to modernize
 <p align='center'>
 Also diving into Artifical Inteligence for appsec and red teams
 </p>
-
+<p align='center'>
 ![🎓 Student @ Georgia Tech](https://img.shields.io/badge/student-Georgia%20Tech-blue)
-![GT CS '25](https://img.shields.io/badge/Georgia%20Tech-CS-'25-yellow)
-
+</p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/daltonlocke/">
