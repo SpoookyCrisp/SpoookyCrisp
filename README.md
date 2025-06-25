@@ -7,11 +7,11 @@ I'm an Application Security Engineer with a passion for cars and motorsport.
 🔭 I’m currently working on building a CANBUS lab to learn more about automotive security 🚗
 </p>
 <p align='center'>
-I'm also working on learning how to design a CAN for my 1989 Camaro to modernize it's systems
+🛠️I'm also working on learning how to design a CAN for my 1989 Camaro to modernize it's systems
 </p>
 <p align='center'>
 <p align='center'>
-Also diving into Artifical Inteligence for appsec and red teams
+🤖Also diving into Artifical Inteligence for appsec and red teams
 </p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/daltonlocke/">
