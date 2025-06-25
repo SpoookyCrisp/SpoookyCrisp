@@ -16,10 +16,10 @@ Also diving into Artifical Inteligence for appsec and red teams
 </p>
 
 ![🎓 Student @ Georgia Tech](https://img.shields.io/badge/student-Georgia%20Tech-blue)
-
+<p align='center'>
 #### 🔧 GT Projects
-- **[CompoLens - Saliency-Based Composition Assistant](link)** – Built for CS 6795 to leverage AI saliency models to provide photographers an AI assistant for photo composition.
-- 
+- **[CompoLens - Saliency-Based Composition Assistant](https://github.com/sp00xe/CompoLens)** – Built for CS 6795 to leverage AI saliency models to provide photographers an AI assistant for photo composition.
+</p>  
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/daltonlocke/">
