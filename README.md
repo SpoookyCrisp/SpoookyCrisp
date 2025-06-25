@@ -12,7 +12,7 @@ I'm also working on learning how to design a CAN for my 1989 Camaro to modernize
 </p>
 <p align='center'>
 <p align='center'>
-Also diving into Artifical Inteligence
+Also diving into Artifical Inteligence for appsec and red teams
 </p>
 <p align='center'>
   
