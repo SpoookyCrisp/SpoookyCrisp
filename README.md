@@ -13,14 +13,6 @@ I'm an Application Security Engineer with a passion for cars and motorsport.
 <p align='center'>
 🤖Also diving into Artifical Inteligence for appsec and red teams
 </p>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/daltonlocke/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/SpoookySec">
-    <img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/student-Georgia%20Tech-blue" />
